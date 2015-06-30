@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	package
+		ADDED from AndroidManifest.xml:3:2
+	android:versionName
+		ADDED from AndroidManifest.xml:5:2
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:2
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+supports-screens
+ADDED from AndroidManifest.xml:7:2
+	android:largeScreens
+		ADDED from AndroidManifest.xml:9:3
+	android:anyDensity
+		ADDED from AndroidManifest.xml:8:3
+	android:normalScreens
+		ADDED from AndroidManifest.xml:10:3
+	android:smallScreens
+		ADDED from AndroidManifest.xml:11:3
+uses-sdk
+ADDED from AndroidManifest.xml:13:2
+MERGED from com.android.support:support-v13:21.0.3:15:5
+MERGED from com.android.support:support-v4:21.0.3:15:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:15:3
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:14:3
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:17:2
+	android:name
+		ADDED from AndroidManifest.xml:17:19
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:18:2
+	android:name
+		ADDED from AndroidManifest.xml:18:19
+uses-permission#android.permission.VIBRATE
+ADDED from AndroidManifest.xml:19:2
+	android:name
+		ADDED from AndroidManifest.xml:19:19
+application
+ADDED from AndroidManifest.xml:21:2
+MERGED from com.android.support:support-v13:21.0.3:16:5
+MERGED from com.android.support:support-v4:21.0.3:16:5
+	android:label
+		ADDED from AndroidManifest.xml:23:3
+	android:icon
+		ADDED from AndroidManifest.xml:22:3
+	android:theme
+		ADDED from AndroidManifest.xml:24:3
+activity#edu.myschool.android.notify.DownloadActivity
+ADDED from AndroidManifest.xml:25:3
+	android:label
+		ADDED from AndroidManifest.xml:27:4
+	android:name
+		ADDED from AndroidManifest.xml:26:4
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:28:4
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:29:5
+	android:name
+		ADDED from AndroidManifest.xml:29:13
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:31:5
+	android:name
+		ADDED from AndroidManifest.xml:31:15
+service#edu.myschool.android.notify.Downloader
+ADDED from AndroidManifest.xml:35:3
+	android:name
+		ADDED from AndroidManifest.xml:35:12

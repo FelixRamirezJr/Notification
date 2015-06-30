@@ -1,0 +1,6 @@
+/home/felix/Desktop/NotificationQuestion/build/intermediates/classes/debug
+/home/felix/Desktop/NotificationQuestion/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-cbb8dc00c0d7a373266727efa7524250c09eef77.jar
+/home/felix/Desktop/NotificationQuestion/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-5a475a86e7c517dbb12052d23f532aadbb37f68a.jar
+/home/felix/Desktop/NotificationQuestion/build/intermediates/pre-dexed/debug/classes-6725b851bf788874b2ab4413f81c02e963a9b435.jar
+/home/felix/Desktop/NotificationQuestion/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ae4cef883a23274ea6ce4e1527876939260213e8.jar
+/home/felix/Desktop/NotificationQuestion/build/intermediates/pre-dexed/debug/classes-2e222b9fe1f0fca840b5009deb5a4fb3dc2a4c95.jar
